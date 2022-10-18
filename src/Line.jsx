@@ -4,8 +4,6 @@ import AbstractFigure from "./AbstarctFigure.jsx";
 export default class Line extends AbstractFigure{
   constructor(x, y, x1, y1) {
     super(x, y);
-    this.x = x;
-    this.y = y;
     this.x1 = x1;
     this.y1 = y1;
   }

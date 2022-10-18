@@ -1,6 +1,6 @@
 export default class AbstractFigure {
   constructor(x, y) {
-    if (this.constructor.name === 'Animal') {
+    if (this.constructor.name === 'AbstractFigure') {
         throw new Error(`${this.constructor.name}: can not create instance of abstract class`);
     }
     this.x = x;
