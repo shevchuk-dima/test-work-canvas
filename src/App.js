@@ -22,7 +22,7 @@ function App() {
 
   useEffect(() => {
     drawLines();
-  }, [lines]);
+  }, [lines]);npm 
 
   useEffect(() => {
     drawCircles(dotsCross);
