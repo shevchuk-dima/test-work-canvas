@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shevchuk-dima/test-work-canvas/static/css/main.9b268b48.css",
+    "main.js": "/shevchuk-dima/test-work-canvas/static/js/main.2f3c6bf6.js",
+    "index.html": "/shevchuk-dima/test-work-canvas/index.html",
+    "main.9b268b48.css.map": "/shevchuk-dima/test-work-canvas/static/css/main.9b268b48.css.map",
+    "main.2f3c6bf6.js.map": "/shevchuk-dima/test-work-canvas/static/js/main.2f3c6bf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b268b48.css",
+    "static/js/main.2f3c6bf6.js"
+  ]
+}
